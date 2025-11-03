@@ -38,17 +38,12 @@ ABAP solution to automate maintenance-related material flow: equipment breakdown
 ## 🧠 Highlights
 - Demonstrates end-to-end integration of logistics modules.  
 - Combines both **functional configuration logic** and **technical ABAP development**.  
-- Emphasizes clean OO design and modular programming.  
-
----
-
-## 📽️ Demo
-🎬 [Watch Demo Video](https://link_to_your_demo_video)
+- Emphasizes clean OO design and modular programming.
 
 ---
 
 ## 🧑‍💻 Author
 **Suraj V. (Code Surfer)**  
 AI/ML Undergraduate | SAP Functional & Technical Enthusiast  
-📧 [your.email@example.com]  
-🌐 [LinkedIn Profile](https://linkedin.com/in/your-link)  
+📧 [surajv1045@gmail.com]  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/surajv1045/)  
